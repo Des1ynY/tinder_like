@@ -1,0 +1,9 @@
+output-class: Locales
+template-arb-file: app_ru.arb
+arb-dir: lib/src/shared/l10n/arb
+output-dir: lib/src/shared/l10n/gen
+untranslated-messages-file: lib/src/shared/l10n/gen/untranslated_messages.json
+preferred-supported-locales: [ru]
+synthetic-package: false
+nullable-getter: false
+format: true

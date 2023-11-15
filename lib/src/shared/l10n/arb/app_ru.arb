@@ -1,0 +1,13 @@
+{
+    "@@locale": "ru",
+    "@@USERS_MATCHING_PAGE": "",
+    "users_matching_no_data": "Нет данных",
+    "user_info_username": "Имя пользователя",
+    "user_info_email": "E-mail",
+    "user_info_phone": "Телефон",
+    "user_info_website": "Сайт",
+    "user_info_address": "Адрес",
+    "@@ERRORS": "",
+    "error_network_connection": "Ошибка соединения",
+    "error_unknown": "Неизвестная ошибка"
+}
